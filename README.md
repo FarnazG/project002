@@ -64,7 +64,7 @@ Based on our model, the most important factors that impact housing prices are:
 
 * SQFT_LIVING: square footage of the house is the second most effective factor
 
-![alt text](https://github.com/FarnazG/project002/blob/master/images/sqft-living-vs-price.png)
+![alt text](https://github.com/FarnazG/project002/blob/master/images/sqft_living-vs-price.png)
 
 * LOCATION: the latitude coordinate of the house is the third most effective factor
 
